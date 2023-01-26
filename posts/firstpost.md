@@ -1,6 +1,6 @@
 ---
 title: Things to do in Ames
-description: 5 outdoor activities for everyone
+description: 5 activities for your family
 date: 2018-05-01
 tags:
   - another tag
