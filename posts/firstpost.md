@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: Things to do in Ames
+description: 5 outdoor activities for everyone
 date: 2018-05-01
 tags:
   - another tag
