@@ -1,6 +1,6 @@
 ---
 title: Brunch in Ames
-description: Get your brunch in Ames with our awesome restaurants
+description: Get your brunch on Ames with our awesome restaurants
 date: 2018-08-24
 tags:
   - second tag
