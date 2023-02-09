@@ -7,17 +7,21 @@ tags:
 layout: layouts/post.njk
 ---
 Here are the best places to get Cyclone gear in Ames
+=
 
 Near Campustown
+=
 Memorial Union
 Barefoot Campus Outfitters
 Dogtown University
 
 North Grand Mall
+=
 Bizzy's Boutique
 Strawberry Patch
 
 Downtown Ames
+=
 Moorman Clothiers
 The Loft
 Cy's Locker Room
