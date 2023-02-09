@@ -1,27 +1,23 @@
 ---
 title: Things to do in Ames
 description: 5 activities for your family
-date: 2018-05-01
+date: 2023-5-23
 tags:
   - another tag
 layout: layouts/post.njk
 ---
+From bike paths to window shopping, there's so much to do in Ames! Check out our list of top 5 activities.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Whether you're weekending with your family or looking to fill an afternoon, here are some fun things to do in Ames.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Take a ride
 
-## Section Header
+There are several scenic bike trails around Ames that you should check out.
+Ada Hayden Heritage Park Lake
+McFarland Park 56461 180th St, Ames, IA 50010
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Watch a movie
 
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+Ames has two theaters to catch the latest films!
+North Grand Cinema, 2801 Grand Avenue Ames, IA 50010
+Cinemark Movies 12, 1317 Buckeye Ave Ames, IA 50010
